@@ -1,0 +1,6 @@
+{
+  "name": "IG Viewer",
+  "description": "An interactive, elegant Instagram WebView application featuring advanced cookie copying, browser cache/storage clearing, and page refreshing tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
